@@ -10,12 +10,12 @@ Extensive experiments show that OpenGAN significantly outperforms prior open-set
 **keywords**: out-of-distribution detection, anomaly detection, open-set recognition, novelty detection, density estimation, generative model, discriminative model, adverserial learning, image classification, semantic segmentation.
 
 
-If you find our model/method/dataset useful, please cite our work ([arxiv manuscript](https://github.com/aimerykong/OpenGAN)):
+If you find our model/method/dataset useful, please cite our work ([arxiv manuscript](https://arxiv.org/abs/2104.02939)):
 
     @inproceedings{OpenGAN,
       title={OpenGAN: Open-Set Recognition via Open Data Generation},
       author={Kong, Shu and Ramanan, Deva},
-      booktitle={preprint},
+      booktitle={preprint: arXiv:2104.02939},
       year={2021}
     }
 
