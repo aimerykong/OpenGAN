@@ -1,4 +1,4 @@
-# OpenGAN: Open-Set Recognition via Open Data Generation
+## OpenGAN: Open-Set Recognition via Open Data Generation
 
 ![alt text](https://github.com/aimerykong/OpenGAN/raw/main/OpenGAN_logo.png "video demo")
 
