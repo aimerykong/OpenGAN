@@ -15,12 +15,12 @@ If you find our model/method/dataset useful, please cite our work ([arxiv manusc
     @inproceedings{OpenGAN,
       title={OpenGAN: Open-Set Recognition via Open Data Generation},
       author={Kong, Shu and Ramanan, Deva},
-      booktitle={preprint: arXiv:2104.02939},
+      booktitle={ICCV},
       year={2021}
     }
 
 
-last update: April, 2021
+last update: July, 2021
 
 Shu Kong
 
