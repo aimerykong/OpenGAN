@@ -1,9 +1,10 @@
 ## OpenGAN: Open-Set Recognition via Open Data Generation
 
-ICCV 2021 (oral)
+ICCV 2021 (best paper honorable mention)
 
 ![alt text](https://github.com/aimerykong/OpenGAN/raw/main/OpenGAN_logo.png "video demo")
 
+[[website](https://www.cs.cmu.edu/~shuk/OpenGAN.html)]
 [[poster](http://www.cs.cmu.edu/~shuk/img/OpenGAN_poster.pdf)]
 [[slides](http://www.cs.cmu.edu/~shuk/img/OpenGAN_slides.pdf)]
 [[oral presentation](https://youtu.be/CNYqYXyUHn0)]
